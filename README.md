@@ -1,2 +1,2 @@
-# Krankenhaus
-By: Louis Headlam, Olof Svahn, Fredrik Parkell
+# Krankenhaus simulation
+A group project by: Louis Headlam, Olof Svahn, Fredrik Parkell
