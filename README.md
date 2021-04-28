@@ -1,2 +1,2 @@
 # Krankenhaus simulation
-A group project by: Louis Headlam, Olof Svahn, Fredrik Parkell: @fredrikparkell
+A group project by: Louis Headlam, Olof Svahn, Fredrik Parkell: https://github.com/fredrikparkell
